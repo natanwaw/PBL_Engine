@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+  <Asset Type="MyXmlData.SettingsXml">
+    <ShadowValue>4</ShadowValue>
+	  <GammaValue>2</GammaValue>
+	<VolumeValue>1</VolumeValue>
+  </Asset>
+</XnaContent>

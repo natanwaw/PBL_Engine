@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:ns="Microsoft.Xna.Framework">
+	<Asset Type="MyXmlData.MyLevel">
+		<Tag>Tree</Tag>
+		<PosX>-4531</PosX>
+		<PosY>4121</PosY>
+		<PosZ>2812</PosZ>
+		<RotX>-0.225943342</RotX>
+		<RotY>0.3032241</RotY>
+		<RotZ>0.0564282835</RotZ>
+		<RotW>0.0564282835</RotW>
+		<ScalX>300</ScalX>
+		<ScalY>300</ScalY>
+		<ScalZ>300</ScalZ>
+	</Asset>
+</XnaContent>
